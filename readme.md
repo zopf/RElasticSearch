@@ -21,7 +21,7 @@ Create a server:
 	
 Next create an index:
 
-	es.index <- new('ElasticSearchIndex', server=es.server, index='documents')
+	es.index <- new('ElasticSearchServerIndex', server=es.server, index='documents')
 
 Let's perform a keyword match on the titles:
 
