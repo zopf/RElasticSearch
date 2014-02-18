@@ -13,7 +13,7 @@ Installation
 	
 Quick Start
 ---
-The following assumes an ElasticSearch index running at `localhost:9200` and with an index called *documents* containing etnries with a *title* and *text*.
+The following assumes an ElasticSearch index running at `localhost:9200` and with an index called *documents* containing entries with a *title* and *text*.
 
 Create a server:
 
